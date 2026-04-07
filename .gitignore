@@ -1,0 +1,17 @@
+## Build artifacts
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+build/
+code
+
+## OS/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+
